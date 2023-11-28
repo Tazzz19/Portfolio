@@ -1,0 +1,327 @@
+{
+  "basics": {
+    "name": "Hamzat Rahman",
+    "headline": "FULL STACK DEVELOPER",
+    "email": "hamzatrahman92@gmail.com",
+    "phone": "",
+    "location": "",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://storage.rxresu.me/clpi2kbcl0002khngf5v2rl25/pictures/clpi2kbcl0002khngf5v2rl25.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>As a Full Stack Developer with experience in JavaScript, Java, React, MongoDB, Node.js, SQL, and Git, I am a dedicated and results-oriented professional. I have worked as an Office Assistant at Scholar X and as a Personal Assistant at OLU and co Realtors. Currently, I am pursuing a CS degree at Gomy code. My goal is to be part of a great tech team where I can contribute my skills and knowledge to develop innovative solutions. I am eager to apply my expertise in full stack development to create robust and user-friendly applications. With a strong foundation in programming and a passion for continuous learning, I am ready to take on new challenges and contribute to the success of an organization.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "v01qdoh89siweo5y4v86v9z8",
+          "visible": true,
+          "institution": "University of Lagos",
+          "studyType": "Bsc",
+          "area": "Microbiology",
+          "score": "",
+          "date": "2017-till date",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "gyh33gjtf2ni03qndriwdtud",
+          "visible": true,
+          "institution": "GoMyCode",
+          "studyType": "Computer Study",
+          "area": "FullStack Developer",
+          "score": "",
+          "date": "Nov2023- April2024",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "zjon1kx8t6cqnaybpsjbhm0z",
+          "visible": true,
+          "company": "Scholar X",
+          "position": "Office Assistant",
+          "location": "",
+          "date": "2022- Till date",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "kcfj259mqprmy4ws4c6dfkdf",
+          "visible": true,
+          "company": "Olu & co Realtors",
+          "position": "Personal Assistant",
+          "location": "",
+          "date": "2016- 2017",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "t58j3txpy8m0qhpog345ssp7",
+          "visible": true,
+          "name": "Basketball",
+          "keywords": []
+        },
+        {
+          "id": "ap6fhim2lvdg7c9495dvbv4k",
+          "visible": true,
+          "name": "Swimming",
+          "keywords": []
+        },
+        {
+          "id": "cacagvqm8eo6rnxul7nin87s",
+          "visible": true,
+          "name": "Chess",
+          "keywords": []
+        },
+        {
+          "id": "hb56ie66xgixvae6uorfpm26",
+          "visible": true,
+          "name": "Watching Anime",
+          "keywords": []
+        },
+        {
+          "id": "zqwp5fhieofy4gg0tqodojv8",
+          "visible": true,
+          "name": "Listening Music",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "tytcrj2q319lqtjkyjty1amd",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "l49ih8825y5j02uf3s9wnyvw",
+          "visible": true,
+          "name": "Yoruba",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "yr9qos5tuab562hp7xtw8rfg",
+          "visible": true,
+          "name": "Japanese",
+          "description": "",
+          "level": 1
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "f4j5l5znnabfgtflbyp154pr",
+          "visible": true,
+          "name": "Full Stack",
+          "description": "web development",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "urx5bh9ry5vqgg4nte0yuv46",
+          "visible": true,
+          "name": "Git",
+          "description": "Github",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "k5gycezglvqu2o1ifv3zw3ol",
+          "visible": true,
+          "name": "Javascript",
+          "description": "programming language",
+          "level": 1,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "siia5ih6hiltx0385mskw83c": {
+        "name": "Custom Section",
+        "columns": 1,
+        "visible": true,
+        "id": "siia5ih6hiltx0385mskw83c",
+        "items": []
+      },
+      "xtwfijl880dq61lzyrk9dype": {
+        "name": "Custom Section",
+        "columns": 1,
+        "visible": true,
+        "id": "xtwfijl880dq61lzyrk9dype",
+        "items": []
+      }
+    }
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.siia5ih6hiltx0385mskw83c",
+          "custom.xtwfijl880dq61lzyrk9dype"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#0284c7"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
